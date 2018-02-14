@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>P&aacutegina Inicial</title>
+	<title>Alterei o título do projeto do pedro!!!</title>
 	<link rel="stylesheet" type="text/css"  href="style.css">
 
 </head>
